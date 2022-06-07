@@ -66,3 +66,20 @@
         font-weight: bold;
         padding: 20px;
     }
+    
+    .topEnd {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+    }
+    
+    .contactUs {
+        position: fixed;
+        bottom: -4px;
+        right: 10px;
+        background-color: #00ad6a;
+        padding: 5px;
+        color: white;
+        font-weight: bolder;
+    }
