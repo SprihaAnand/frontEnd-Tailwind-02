@@ -1,85 +1,173 @@
-    /* navbar */
-    
-    .navbar {
-        padding-top: 4rem;
-    }
-    /* top-div */
-    
-    .topHeading {
-        font-weight: bolder;
-        font-size: 3rem;
-        text-align: center;
-        padding-top: 1.57em;
-        padding-bottom: 1rem;
-        font-family: 'Anton', sans-serif;
-        letter-spacing: 5px;
-    }
-    
-    .topText {
-        font-size: 1.5rem;
-        text-align: center;
-        padding-left: 5rem;
-        padding-right: 5rem;
-        padding-bottom: 2.5rem;
-    }
-    /* top-grid */
-    
-    .center {
-        display: flex;
-        align-items: center;
-        justify-content: center
-    }
-    
-    .grid1-item {
-        padding: 50px;
-    }
-    
-    .cardh3 {
-        font-size: 1.5rem;
-        text-align: center;
-        color: gray;
-        font-weight: bolder;
-    }
-    
-    .cardButton {
-        background-color: #1fe374;
-        font-size: 1.3rem;
-        font-weight: bolder;
-        padding: 10px;
-        align-items: center;
-        margin: 30px;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
-    
-    .grid3 {
-        background-color: white;
-        display: block;
-        margin-top: auto;
-        margin-bottom: auto;
-    }
-    
-    .grid3 h2 {
-        color: #00ad6a;
-        font-size: 2rem;
-        font-weight: bold;
-        padding: 20px;
-    }
-    
-    .topEnd {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        padding: 20px;
-    }
-    
-    .contactUs {
-        position: fixed;
-        bottom: -4px;
-        right: 10px;
-        background-color: #00ad6a;
-        padding: 5px;
-        color: white;
-        font-weight: bolder;
-    }
+/* navbar */
+
+.navbar {
+    padding-top: 4rem;
+}
+
+
+/* top-div */
+
+.topHeading {
+    font-weight: bolder;
+    font-size: 3rem;
+    text-align: center;
+    padding-top: 1.57em;
+    padding-bottom: 1rem;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 5px;
+}
+
+.topText {
+    font-size: 1.5rem;
+    text-align: center;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-bottom: 2.5rem;
+}
+
+
+/* top-grid */
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.grid1-item {
+    padding: 50px;
+}
+
+.cardh3 {
+    font-size: 1.5rem;
+    text-align: center;
+    color: gray;
+    font-weight: bolder;
+}
+
+.cardButton {
+    background-color: #1fe374;
+    font-size: 1.3rem;
+    font-weight: bolder;
+    padding: 10px;
+    align-items: center;
+    margin: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.grid3 {
+    background-color: white;
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.grid3 h2 {
+    color: #00ad6a;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 20px;
+}
+
+
+/* subvert section */
+
+.topEnd {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #00ad6a;
+    font-weight: bolder;
+    padding-bottom: 60px;
+}
+
+.topEndUpper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+
+/* fixed button */
+
+.contactUs {
+    position: fixed;
+    bottom: -4px;
+    right: 10px;
+    background-color: #00ad6a;
+    padding: 5px;
+    color: white;
+    font-weight: bolder;
+    border: 2px solid white;
+}
+
+
+/* faq */
+
+.FAQ h1 {
+    font-size: 2.5rem;
+    font-weight: bolder;
+    padding: 10px;
+    padding-top: 5rem;
+}
+
+.FAQ h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.FAQ p {
+    padding: 20px;
+}
+
+.FAQ div div {
+    margin: 1rem;
+}
+
+.footer {
+    background-color: black;
+}
+
+.footerButton {
+    background-color: #1fe374;
+    font-weight: bolder;
+    font-size: .7rem;
+    margin: 2rem;
+    padding: .5rem;
+}
+
+.footerButton:hover {
+    box-shadow: -5px 5px gray;
+}
+
+.footerItems {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.footerItems h3 {
+    color: white;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.footerItems li {
+    color: #1fe374;
+}
+
+.footerItems li:hover {
+    color: white;
+}
+
+.trademark {
+    background-color: black;
+    color: gray;
+    font-size: small;
+}
