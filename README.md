@@ -12,3 +12,8 @@ Project Description: Frontend using Tailwind Framework with Modern Design The go
 
 ## Demo
 [Screencast from 2023-06-02 22-15-13.webm](https://github.com/SprihaAnand/frontEnd-Tailwind-02/assets/97617046/4a6619df-3216-4be8-a44a-77ffd3795b4d)
+
+## Author
+Spriha Anand (@SprihaAnand)
+## Feedback
+Share you feedback on sprihaanand@gmail.com
