@@ -8,3 +8,4 @@
 ![Screenshot from 2023-06-02 22-14-56](https://github.com/SprihaAnand/frontEnd-Tailwind-02/assets/97617046/5525d566-dfe8-4e8c-a798-5c0885a1fa7c)
 
 ## Demo
+[Screencast from 2023-06-02 22-15-13.webm](https://github.com/SprihaAnand/frontEnd-Tailwind-02/assets/97617046/4a6619df-3216-4be8-a44a-77ffd3795b4d)
